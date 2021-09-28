@@ -21,7 +21,7 @@ Params:
     header: img/header.jpg
     image: img/placeholder.png
     subtitle: Welcome to our group site
-    title: Hugo DPSG
+    title: Lemn DPSG
   mainSections:
     - post
     - blog
